@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/typhe/__init__.py
+src/typhe/main.py
+src/typhe.egg-info/PKG-INFO
+src/typhe.egg-info/SOURCES.txt
+src/typhe.egg-info/dependency_links.txt
+src/typhe.egg-info/top_level.txt
