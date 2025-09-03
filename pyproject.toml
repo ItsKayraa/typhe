@@ -4,13 +4,19 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "typhe"
-version = "2025.0.0"
+version = "2025.0.1"
 description = "More types for Python."
+license = {text = "GPL3"}
 authors = [
-    { name = "Your Name", email = "your.email@example.com" }
+    { name = "ItsKayraa", email = "kayrabalc399@gmail.com" }
 ]
 readme = "README.md"
+dependencies = []
 requires-python = ">=3.8"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[project.urls]
+"Homepage" = "https://github.com/ItsKayraa/typhe"
+"Bug Tracker" = "https://github.com/ItsKayraa/typhe/issues"

@@ -1,12 +1,17 @@
 Metadata-Version: 2.4
 Name: typhe
-Version: 2025.0.0
+Version: 2025.0.1
 Summary: More types for Python.
-Author-email: Your Name <your.email@example.com>
+Author-email: ItsKayraa <kayrabalc399@gmail.com>
+License: GPL3
+Project-URL: Homepage, https://github.com/ItsKayraa/typhe
+Project-URL: Bug Tracker, https://github.com/ItsKayraa/typhe/issues
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
 
-# Lowpy
+# Typhe
 
 Wanted more **types** such as uint16, int16 and more? You can now!
 

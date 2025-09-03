@@ -1,4 +1,4 @@
-# Lowpy
+# Typhe
 
 Wanted more **types** such as uint16, int16 and more? You can now!
 
