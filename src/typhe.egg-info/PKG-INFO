@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: typhe
-Version: 2025.0.2
+Version: 2025.0.3
 Summary: More types for Python.
 Author-email: ItsKayraa <kayrabalc399@gmail.com>
 License: GPL3
@@ -93,5 +93,5 @@ Please fork the repository, make your changes, and submit a pull request.
 
 ## 📝 License
 
-Typhe is licensed under the MIT License.
+Typhe is licensed under the GPL3 License.
 See the [LICENSE](LICENSE) file for details.

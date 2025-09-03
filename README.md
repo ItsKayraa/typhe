@@ -80,5 +80,5 @@ Please fork the repository, make your changes, and submit a pull request.
 
 ## 📝 License
 
-Typhe is licensed under the MIT License.
+Typhe is licensed under the GPL3 License.
 See the [LICENSE](LICENSE) file for details.

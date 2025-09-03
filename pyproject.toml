@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "typhe"
-version = "2025.0.2"
+version = "2025.0.3"
 description = "More types for Python."
 license = {text = "GPL3"}
 authors = [
