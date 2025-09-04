@@ -13,3 +13,5 @@ calculator = Calculator()
 calculator.number1 = uint32(7)
 calculator.number2 = uint32(10)
 calculator.operator = char('*')
+
+print(calculator)

@@ -1,7 +1,6 @@
 # Typhe
 
 [![PyPI version](https://img.shields.io/pypi/v/typhe.svg)](https://pypi.org/project/typhe/)
-[![Python Version](https://img.shields.io/pypi/pyversions/typhe.svg)](https://pypi.org/project/typhe/)
 [![License](https://img.shields.io/pypi/l/typhe.svg)](https://pypi.org/project/typhe/)
 
 Typhe is a lightweight Python library that extends Python's type system with **additional integer and string types**, as well as structures (`struct`) to make your code safer and more explicit.

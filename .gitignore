@@ -1,3 +1,5 @@
 test.py
 .venv
 build
+dist
+src/typhe.egg-info
